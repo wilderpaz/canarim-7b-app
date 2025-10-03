@@ -1,16 +1,3 @@
----
-title: Papa Capim - App de Instrução e Resumos
-emoji: 📚
-colorFrom: blue
-colorTo: blue
-sdk: gradio
-sdk_version: 5.48.0
-app_file: app.py
-pinned: true
-license: apache-2.0
----
-
-
 # 🦜 Papa Capim -7B Instruct App
 
 **Papa Capim-7B Instruct App** é uma aplicação web interativa que utiliza o modelo de linguagem Canarim-7B-Instruct, treinado em português, para gerar textos com base em instruções e contexto fornecidos pelo usuário.
